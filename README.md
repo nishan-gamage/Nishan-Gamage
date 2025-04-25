@@ -111,13 +111,9 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishan-gamage&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-gamage&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishan-gamage&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=nishan-gamage&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-gamage&layout=compact&langs_count=10&theme=radical" alt="Top Languages" /> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishan-gamage&theme=radical" alt="Profile Summary Card" /> </p>
 
----
+<p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
 ## 🌐 Connect With Me
 
